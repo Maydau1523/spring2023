@@ -1,0 +1,15 @@
+D:\Users\maydau1524\code\spring2023\excersise12\bin\Debug\net7.0\excersise12.exe
+D:\Users\maydau1524\code\spring2023\excersise12\bin\Debug\net7.0\excersise12.deps.json
+D:\Users\maydau1524\code\spring2023\excersise12\bin\Debug\net7.0\excersise12.runtimeconfig.json
+D:\Users\maydau1524\code\spring2023\excersise12\bin\Debug\net7.0\excersise12.dll
+D:\Users\maydau1524\code\spring2023\excersise12\bin\Debug\net7.0\excersise12.pdb
+D:\Users\maydau1524\code\spring2023\excersise12\obj\Debug\net7.0\excersise12.csproj.AssemblyReference.cache
+D:\Users\maydau1524\code\spring2023\excersise12\obj\Debug\net7.0\excersise12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maydau1524\code\spring2023\excersise12\obj\Debug\net7.0\excersise12.AssemblyInfoInputs.cache
+D:\Users\maydau1524\code\spring2023\excersise12\obj\Debug\net7.0\excersise12.AssemblyInfo.cs
+D:\Users\maydau1524\code\spring2023\excersise12\obj\Debug\net7.0\excersise12.csproj.CoreCompileInputs.cache
+D:\Users\maydau1524\code\spring2023\excersise12\obj\Debug\net7.0\excersise12.dll
+D:\Users\maydau1524\code\spring2023\excersise12\obj\Debug\net7.0\refint\excersise12.dll
+D:\Users\maydau1524\code\spring2023\excersise12\obj\Debug\net7.0\excersise12.pdb
+D:\Users\maydau1524\code\spring2023\excersise12\obj\Debug\net7.0\excersise12.genruntimeconfig.cache
+D:\Users\maydau1524\code\spring2023\excersise12\obj\Debug\net7.0\ref\excersise12.dll

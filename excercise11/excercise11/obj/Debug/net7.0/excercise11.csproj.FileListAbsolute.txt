@@ -1,0 +1,15 @@
+D:\Users\maydau1524\code\spring2023\excercise11\bin\Debug\net7.0\excercise11.exe
+D:\Users\maydau1524\code\spring2023\excercise11\bin\Debug\net7.0\excercise11.deps.json
+D:\Users\maydau1524\code\spring2023\excercise11\bin\Debug\net7.0\excercise11.runtimeconfig.json
+D:\Users\maydau1524\code\spring2023\excercise11\bin\Debug\net7.0\excercise11.dll
+D:\Users\maydau1524\code\spring2023\excercise11\bin\Debug\net7.0\excercise11.pdb
+D:\Users\maydau1524\code\spring2023\excercise11\obj\Debug\net7.0\excercise11.csproj.AssemblyReference.cache
+D:\Users\maydau1524\code\spring2023\excercise11\obj\Debug\net7.0\excercise11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maydau1524\code\spring2023\excercise11\obj\Debug\net7.0\excercise11.AssemblyInfoInputs.cache
+D:\Users\maydau1524\code\spring2023\excercise11\obj\Debug\net7.0\excercise11.AssemblyInfo.cs
+D:\Users\maydau1524\code\spring2023\excercise11\obj\Debug\net7.0\excercise11.csproj.CoreCompileInputs.cache
+D:\Users\maydau1524\code\spring2023\excercise11\obj\Debug\net7.0\excercise11.dll
+D:\Users\maydau1524\code\spring2023\excercise11\obj\Debug\net7.0\refint\excercise11.dll
+D:\Users\maydau1524\code\spring2023\excercise11\obj\Debug\net7.0\excercise11.pdb
+D:\Users\maydau1524\code\spring2023\excercise11\obj\Debug\net7.0\excercise11.genruntimeconfig.cache
+D:\Users\maydau1524\code\spring2023\excercise11\obj\Debug\net7.0\ref\excercise11.dll
